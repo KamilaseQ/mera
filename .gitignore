@@ -1,0 +1,9 @@
+# Vercel
+.vercel/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Zależności (na wszelki wypadek — repo jest statyczne)
+node_modules/
